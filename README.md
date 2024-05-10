@@ -1,4 +1,4 @@
-# GSAP Stagger Animation 🌟
+# GSAP Stagger Animation 
 
 Hey Leute! 👋 Willkommen zur GSAP Stagger Animation README-Datei!
 
